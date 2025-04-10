@@ -1,6 +1,7 @@
 # classfiles
 
 * STEM Education: [spx: A Go+ 2D Game Engine](https://github.com/goplus/spx)
+* AI Programming: [mcp: A Go+ implementation of the Model Context Protocol (MCP)](https://github.com/goplus/mcp)
 * Web Programming: [yap: Yet Another HTTP Web Framework](https://github.com/goplus/yap)
 * Web Programming: [yaptest: A Go+ HTTP Test Framework](https://github.com/goplus/yap/tree/main/ytest)
 * Web Programming: [ydb: A Go+ Database Framework](https://github.com/goplus/yap/tree/main/ydb)
